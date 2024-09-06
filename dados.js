@@ -54,7 +54,7 @@ let dados = [
         camisa: "Camisa: 23"
     },
     {
-        título: "Varela",
+        título: "Guillermo Varela",
         descrição: "Varela é um lateral-direito rápido e incisivo, nascido em Montevidéu, Uruguai, com habilidade para contribuir tanto defensivamente quanto no ataque.",
         nascimento: "Nascimento: 15/07/1998",
         idade: "Idade: 26",
@@ -63,7 +63,7 @@ let dados = [
         camisa: "Camisa: 2"
     },
     {
-        título: "Viña",
+        título: "Matias Viña",
         descrição: "Viña, lateral-esquerdo nascido em Montevidéu, se destaca pela sua habilidade em apoiar o ataque e pela solidez defensiva.",
         nascimento: "Nascimento: 06/11/1997",
         idade: "Idade: 27",
