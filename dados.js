@@ -6,7 +6,8 @@ let dados = [
         idade: "Idade: 29",
         cidade: "Cidade: Buenos Aires",
         posição: "Posição: Goleiro",
-        camisa: "Camisa: 1"
+        camisa: "Camisa: 1",
+        imagem: "/imagens/Agustín Rossi.webp"
     },
     {
         título: "Matheus Cunha",
@@ -15,7 +16,8 @@ let dados = [
         idade: "Idade: 24",
         cidade: "Cidade: Rio de Janeiro",
         posição: "Posição: Goleiro",
-        camisa: "Camisa: 30"
+        camisa: "Camisa: 30",
+        imagem: "/imagens/Matheus Cunha.webp"
     },
     {
         título: "Léo Pereira",
@@ -24,7 +26,8 @@ let dados = [
         idade: "Idade: 28",
         cidade: "Cidade: São Paulo",
         posição: "Posição: Zagueiro",
-        camisa: "Camisa: 4"
+        camisa: "Camisa: 4",
+        imagem: "/imagens/Léo Pereira.webp"
     },
     {
         título: "Fabrício Bruno",
@@ -33,7 +36,8 @@ let dados = [
         idade: "Idade: 27",
         cidade: "Cidade: Brasília",
         posição: "Posição: Zagueiro",
-        camisa: "Camisa: 15"
+        camisa: "Camisa: 15",
+        imagem: "/imagens/Fabrício Bruno.webp"
     },
     {
         título: "Léo Ortiz",
@@ -42,7 +46,8 @@ let dados = [
         idade: "Idade: 27",
         cidade: "Cidade: São Paulo",
         posição: "Posição: Zagueiro",
-        camisa: "Camisa: 3"
+        camisa: "Camisa: 3",
+        imagem: "/imagens/Léo Ortiz.webp"
     },
     {
         título: "David Luiz",
@@ -51,7 +56,8 @@ let dados = [
         idade: "Idade: 37",
         cidade: "Cidade: Diadema",
         posição: "Posição: Zagueiro",
-        camisa: "Camisa: 23"
+        camisa: "Camisa: 23",
+        imagem: "/imagens/David Luiz.webp"
     },
     {
         título: "Guillermo Varela",
@@ -60,7 +66,8 @@ let dados = [
         idade: "Idade: 26",
         cidade: "Cidade: Montevidéu",
         posição: "Posição: Lateral-direito",
-        camisa: "Camisa: 2"
+        camisa: "Camisa: 2",
+        imagem: "/imagens/Guillermo Varela.webp"
     },
     {
         título: "Matias Viña",
@@ -69,7 +76,8 @@ let dados = [
         idade: "Idade: 27",
         cidade: "Cidade: Montevidéu",
         posição: "Posição: Lateral-esquerdo",
-        camisa: "Camisa: 22"
+        camisa: "Camisa: 22",
+        imagem: "/imagens/Matias Viña.webp"
     },
     {
         título: "Ayrton Lucas",
@@ -78,7 +86,8 @@ let dados = [
         idade: "Idade: 26",
         cidade: "Cidade: Rio de Janeiro",
         posição: "Posição: Lateral-esquerdo",
-        camisa: "Camisa: 16"
+        camisa: "Camisa: 16",
+        imagem: "/imagens/Ayrton Lucas.webp"
     },
     {
         título: "Wesley",
@@ -87,7 +96,8 @@ let dados = [
         idade: "Idade: 23",
         cidade: "Cidade: Salvador",
         posição: "Posição: Lateral-direito",
-        camisa: "Camisa: 13"
+        camisa: "Camisa: 13",
+        imagem: "/imagens/Wesley.webp"
     },
     {
         título: "Gerson",
@@ -96,16 +106,18 @@ let dados = [
         idade: "Idade: 27",
         cidade: "Cidade: Belo Horizonte",
         posição: "Posição: Meio-campista",
-        camisa: "Camisa: 8"
+        camisa: "Camisa: 8",
+        imagem: "/imagens/Gerson.webp"
     },
     {
         título: "Giorgian de Arrascaeta",
-        descrição: "Arrascaeta, nascido em Nuevo Berlín, é um dos principais meio-campistas ofensivos da América do Sul, com visão de jogo e criatividade excepcionais.",
+        descrição: "Arrascaeta, meio-campista uruguaio, é conhecido por suas habilidades criativas e capacidade de mudar o jogo.",
         nascimento: "Nascimento: 01/06/1994",
         idade: "Idade: 30",
         cidade: "Cidade: Nuevo Berlín",
         posição: "Posição: Meio-campista",
-        camisa: "Camisa: 14"
+        camisa: "Camisa: 14",
+        imagem: "/imagens/Giorgian de Arrascaeta.webp"
     },
     {
         título: "Allan",
@@ -114,7 +126,8 @@ let dados = [
         idade: "Idade: 28",
         cidade: "Cidade: Rio de Janeiro",
         posição: "Posição: Volante",
-        camisa: "Camisa: 5"
+        camisa: "Camisa: 5",
+        imagem: "/imagens/Allan.webp"
     },
     {
         título: "Erick Pulgar",
@@ -123,7 +136,8 @@ let dados = [
         idade: "Idade: 30",
         cidade: "Cidade: Santiago",
         posição: "Posição: Volante",
-        camisa: "Camisa: 25"
+        camisa: "Camisa: 25",
+        imagem: "/imagens/Erick Pulgar.webp"
     },
     {
         título: "Matheus Gonçalves",
@@ -132,7 +146,8 @@ let dados = [
         idade: "Idade: 20",
         cidade: "Cidade: Rio de Janeiro",
         posição: "Posição: Meio-campista",
-        camisa: "Camisa: 20"
+        camisa: "Camisa: 20",
+        imagem: "/imagens/Matheus Gonçalves.webp"
     },
     {
         título: "Pedro",
@@ -141,7 +156,8 @@ let dados = [
         idade: "Idade: 27",
         cidade: "Cidade: Rio de Janeiro",
         posição: "Posição: Atacante",
-        camisa: "Camisa: 9"
+        camisa: "Camisa: 9",
+        imagem: "/imagens/Pedro.webp"
     },
     {
         título: "Bruno Henrique",
@@ -150,16 +166,18 @@ let dados = [
         idade: "Idade: 33",
         cidade: "Cidade: Belo Horizonte",
         posição: "Posição: Atacante",
-        camisa: "Camisa: 27"
+        camisa: "Camisa: 27",
+        imagem: "/imagens/Bruno Henrique.webp"
     },
     {
         título: "Gabriel Barbosa",
         descrição: "Gabigol é um dos atacantes mais prolíficos do Brasil, nascido em São Bernardo do Campo, famoso por seu faro de gol e personalidade marcante.",
-        nascimento: "Nascimento: 30/10/1996",
+        nascimento: "Nascimento: 30/08/1996",
         idade: "Idade: 28",
         cidade: "Cidade: São Bernardo do Campo",
         posição: "Posição: Atacante",
-        camisa: "Camisa: 99"
+        camisa: "Camisa: 10",
+        imagem: "/imagens/Gabriel Barbosa.webp"
     },
     {
         título: "Everton Cebolinha",
@@ -168,7 +186,8 @@ let dados = [
         idade: "Idade: 28",
         cidade: "Cidade: Aracaju",
         posição: "Posição: Atacante",
-        camisa: "Camisa: 7"
+        camisa: "Camisa: 7",
+        imagem: "/imagens/Everton Cebolinha.webp"
     },
     {
         título: "Michael",
@@ -177,7 +196,8 @@ let dados = [
         idade: "Idade: 28",
         cidade: "Cidade: Goiânia",
         posição: "Posição: Atacante",
-        camisa: "Camisa: 30"
+        camisa: "Camisa: 30",
+        imagem: "/imagens/Michael.webp"
     },
     {
         título: "Carlinhos",
@@ -186,7 +206,8 @@ let dados = [
         idade: "Idade: 27",
         cidade: "Cidade: São Paulo",
         posição: "Posição: Atacante",
-        camisa: "Camisa: 22"
+        camisa: "Camisa: 22",
+        imagem: "/imagens/Carlinhos.webp"
     },
     {
         título: "Luiz Araújo",
@@ -195,7 +216,8 @@ let dados = [
         idade: "Idade: 27",
         cidade: "Cidade: São Paulo",
         posição: "Posição: Atacante",
-        camisa: "Camisa: 11"
+        camisa: "Camisa: 11",
+        imagem: "/imagens/Luiz Araújo.webp"
     },
     {
         título: "Carlos Alcaraz",
@@ -204,7 +226,8 @@ let dados = [
         idade: "Idade: 22",
         cidade: "Cidade: Montevidéu",
         posição: "Posição: Meia",
-        camisa: "Camisa: 37"
+        camisa: "Camisa: 37",
+        imagem: "/imagens/Carlos Alcaraz.webp"
     },
     {
         título: "De La Cruz",
@@ -213,7 +236,8 @@ let dados = [
         idade: "Idade: 27",
         cidade: "Cidade: Montevidéu",
         posição: "Posição: Meia",
-        camisa: "Camisa: 18"
+        camisa: "Camisa: 18",
+        imagem: "/imagens/De La Cruz.webp"
     },
     {
         título: "Lorran",
@@ -222,7 +246,8 @@ let dados = [
         idade: "Idade: 20",
         cidade: "Cidade: Rio de Janeiro",
         posição: "Posição: Meia",
-        camisa: "Camisa: 19"
+        camisa: "Camisa: 19",
+        imagem: "/imagens/Lorran.webp"
     },
     {
         título: "Alex Sandro",
@@ -231,7 +256,8 @@ let dados = [
         idade: "Idade: 33",
         cidade: "Cidade: Catanduva",
         posição: "Posição: Lateral-esquerdo",
-        camisa: "Camisa: 26"
+        camisa: "Camisa: 26",
+        imagem: "/imagens/Alex Sandro.webp"
     },
     {
         título: "Gonzalo Plata",
@@ -240,7 +266,8 @@ let dados = [
         idade: "Idade: 23",
         cidade: "Cidade: Guayaquil",
         posição: "Posição: Atacante",
-        camisa: "Camisa: 45 "
+        camisa: "Camisa: 45",
+        imagem: "/imagens/Gonzalo Plata.webp"
     },
     {
         título: "Evertton Araújo",
@@ -249,6 +276,8 @@ let dados = [
         idade: "Idade: 21",
         cidade: "Cidade: Porto Alegre",
         posição: "Posição: Meia",
-        camisa: "Camisa: 52"
+        camisa: "Camisa: 52",
+        imagem: "/imagens/Evertton Araújo.webp"
     }
 ];
+

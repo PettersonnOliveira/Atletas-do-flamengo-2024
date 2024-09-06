@@ -59,6 +59,12 @@ section button {
     padding: 1rem;
     border-radius: 0.6rem;
 }
+img {
+    border-radius: 10px; /* Borda arredondada */
+    width: 300px; /* Define a largura */
+    height: auto; /* Altura ajustada automaticamente */
+    margin-bottom: 10px; /* Espaçamento entre a imagem e o texto */
+}
 
 /* Estiliza cada item de resultado */
 .item-resultado {
