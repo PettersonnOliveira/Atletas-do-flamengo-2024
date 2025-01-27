@@ -17,7 +17,7 @@ let dados = [
         cidade: "Cidade: Rio de Janeiro",
         posição: "Posição: Goleiro",
         camisa: "Camisa: 30",
-        imagem: "/imagens/matheus cunha.webp"
+        imagem: "/imagens/Matheus Cunha.webp"
     },
     {
         título: "Léo Pereira",
